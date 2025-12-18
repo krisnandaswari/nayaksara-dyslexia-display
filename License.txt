@@ -1,0 +1,14 @@
+Copyright (c) 2025 Krisnandaswari
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at:
+https://scripts.sil.org/OFL
+
+-----------------------------------------------------------
+IMPORTANT:
+The full, unmodified text of the
+SIL Open Font License Version 1.1
+must be included in this repository as OFL.txt.
+
+Do not alter the license text.
+-----------------------------------------------------------
